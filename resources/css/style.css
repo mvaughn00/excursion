@@ -1,0 +1,9 @@
+*{
+  background-color: black;
+}
+h1 {
+  font-size: 72px;
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+}
